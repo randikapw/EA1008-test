@@ -14,7 +14,6 @@ public class PrintBoard extends JFrame {
 	 private DrawingBoard surface;
 	 private static final int FRAME_THIKNESS_X = 17, FRAME_THICKNESS_Y = 40;
 	 public PrintBoard() {
-
 	        initUI();
 	    }
 
